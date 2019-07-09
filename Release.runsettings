@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <!-- Parameters used by tests at runtime -->
+  <TestRunParameters>
+    
+    <!--Configuration Service Settings-->
+    <Parameter name="ServiceAccountName" value="" />
+    <Parameter name="ServiceAccountPwd" value="" />
+    <Parameter name="MSXPortalUrl" value="" />
+  </TestRunParameters>
+</RunSettings>
